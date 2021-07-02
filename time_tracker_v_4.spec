@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['time_tracker_v_4.py'],
-             pathex=['/Users/admin/Desktop/30_june_time_tracker/mac/time_tracker_mac_build'],
+             pathex=['/Users/admin/Desktop/2_july_time_tracker/mac/time_tracker_mac_build'],
              binaries=[],
              datas=[('/usr/local/lib/python3.8/site-packages/eel/eel.js', 'eel'), ('web', 'web')],
              hiddenimports=['bottle_websocket'],
