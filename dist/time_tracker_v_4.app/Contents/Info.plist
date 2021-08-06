@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>time_tracker_v_4</string>
 	<key>CFBundleExecutable</key>
-	<string>MacOS/time_tracker_v_4</string>
+	<string>time_tracker_v_4</string>
 	<key>CFBundleIconFile</key>
 	<string>icon-windowed.icns</string>
 	<key>CFBundleIdentifier</key>
