@@ -1,3 +1,0 @@
-([('time_tracker_v_4',
-   '/Users/admin/Desktop/2_july_time_tracker/mac/time_tracker_mac_build/dist/time_tracker_v_4',
-   'EXECUTABLE')],)
