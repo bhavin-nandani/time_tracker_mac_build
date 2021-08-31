@@ -1,3 +1,0 @@
-([('time_tracker_v_4',
-   '/Users/tejal/Documents/final_build/dist/time_tracker_v_4',
-   'EXECUTABLE')],)
