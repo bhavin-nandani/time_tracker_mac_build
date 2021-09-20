@@ -1,0 +1,3 @@
+([('time_tracker',
+   '/Users/tejal/Downloads/TRACKER_MAC_V2.1/dist/time_tracker',
+   'EXECUTABLE')],)
